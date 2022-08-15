@@ -1,18 +1,10 @@
-## Thank you for contributing to this project!
-You must fill out the information below before we can review this pull request.
-By explaining why you're making a change (or linking to an issue) and what changes you've made, we can allocate your pull request to the best possible team for review.
-
-### Reasons for making this change/Why:
-> [Issue](issue link)
-
-If there's an existing issue for your change, please link to it in the round brackets above.
-
-If there's *not* an existing issue, please open one first to make it more likely that this update will be accepted.
-
-### What's being changed (if available, include any code snippets, screenshots, or gifs):
-Let us know what you are changing.
-Share anything that could provide the most context.
-
-### Check off the following:
-- [ ] I have reviewed my changes in staging (look for the "Automatically generated comment" and click the links in the "Preview" column to view your latest changes).
-- [ ] For content changes, I have completed the [self-review checklist](https://github.com/github/docs/blob/main/contributing/self-review.md#self-review).
+<!--
+	Please Incude the following with the Pull Request:
+		* Heading (If there isn't a default one already)
+		* Description (If there isn't a default one already)
+		* Select a reviewer (@dau501 by default if unsure who to review)
+		* Assign yourself
+		* Select a label relevant to the pull request
+		* Link the board for the repo (if there is one)
+		* Attach the milstone that the linked issue is apart of (if there are any)
+-->
