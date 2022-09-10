@@ -1,12 +1,25 @@
+> ^^^Default Message^^^<!-- Delete this line + everything above when done. -->
+
+* **Author**: @dau501
+* **Issue**: #0
+* **Board**: Please see [Project Boards (Classic)](https://github.com/orgs/kanbanyte/projects?type=classic).
+> ^^^Template Description^^^<!-- Delete this line when done. -->
 
 <!--
-	Please include the following with the Pull Request:
-		* Heading (If there isn't a default one already)
-		* Description (If there isn't a default one already)
-		* Select a reviewer (@dau501 by default if unsure who to review)
-		* Assign yourself
-		* Select a label(s) relevant to the pull request
-		* Link the board for the repo (if there is one)
-		* Attach the Milestone that the linked issue is apart of (if there are any)
-		* Add the related Issue under Development (don't mind if the issue is closed but would be nicer if the issue was already open)
+See Check Lists below before creating PR.
+Remove all commented out lines + everything below when done.
 -->
+### Above:
+- [ ] **Open a pull request||Comparing changes**: Confirm choice of `base:` & `compare:` branches to merge.
+- [ ] **Title**: (Match related Issue)
+
+### Here:
+- [ ] **Default Message**: Remove the commit/merge description(s)
+- [ ] **Template Description**: Change `#0` to related issue no. & `@dau501` to your username.
+
+### Right->:
+- [ ] **Reviewers**: Select a reviewer (@dau501 by default if unsure)
+- [ ] **Assignees**: Assign yourself
+- [ ] **Labels**: (Match related Issue)
+- [ ] **Projects**: (Match related Issue)
+- [ ] **Milestone**: (Match related Issue)
