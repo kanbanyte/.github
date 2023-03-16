@@ -9,7 +9,7 @@ In this guide you will get an overview of the contribution workflow from opening
 Use the table of contents icon on the top left corner of this document to get to a specific section of this guide quickly.
 
 ## New contributor guide
-To get an overview of the project, read the [README](README.md).\
+To get an overview of the project, read the [README](../README.md).\
 Here are some resources to help you get started with open source contributions:
 * [Finding ways to contribute to open source on GitHub][contribute-to-open-source]
 * [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
